@@ -12,6 +12,7 @@ h1 {
 button {
     margin: 5px;
     padding: 10px;
+    color: black;
     background-color: rgba(105, 105, 105, 0.527);
     border-radius: 10px;
     font-size: 16px;
