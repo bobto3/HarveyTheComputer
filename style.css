@@ -17,3 +17,9 @@ button {
     font-size: 16px;
     font-weight: bold;
 }
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
