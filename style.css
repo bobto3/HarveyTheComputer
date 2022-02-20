@@ -23,3 +23,21 @@ section {
     flex-wrap: wrap;
     justify-content: center;
 }
+
+@media screen and (max-width: 992px) {
+    img {
+      width: 500px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    img {
+        width: 400px;
+      }
+  }
+  
+  @media screen and (max-width: 576px) {
+    img {
+        width: 300px;
+      }
+  }
