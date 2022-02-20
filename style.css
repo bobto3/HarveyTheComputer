@@ -31,16 +31,28 @@ section {
     img {
       width: 500px;
     }
+    button {
+      font-size: 14px;
+      padding: 13px 18px;
+    }
   }
   
   @media screen and (max-width: 768px) {
     img {
         width: 400px;
       }
+    button {
+        font-size: 13px;
+        padding: 12px 17px;
+      }
   }
   
   @media screen and (max-width: 576px) {
     img {
         width: 300px;
+      }
+      button {
+        font-size: 12px;
+        padding: 10px 15px;
       }
   }
